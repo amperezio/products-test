@@ -1,3 +1,3 @@
-# Spring boot app for SOAINT
+# Spring boot app for Products
 
 
